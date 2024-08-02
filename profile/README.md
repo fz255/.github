@@ -18,6 +18,6 @@
 ## Сервисы
 
 * [Реестр иноагентов](https://fz255.github.io/)
-* [Реестр нежелательных организаций](https://fz255.github.io/orgs)
-* [Реестр террористов и экстремистов](https://fz255.github.io/fedsfm) (интеграция с [extrem.ishukshin.ru](https://extrem.ishukshin.ru))
-* [Люди с двойным статусом](https://fz255.github.io/double)
+* [Реестр нежелательных организаций](https://fz255.github.io/#/orgs)
+* [Реестр террористов и экстремистов](https://fz255.github.io/#/fedsfm) (интеграция с [extrem.ishukshin.ru](https://extrem.ishukshin.ru))
+* [Люди с двойным статусом](https://fz255.github.io/#/double)
